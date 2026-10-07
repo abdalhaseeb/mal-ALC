@@ -10,3 +10,7 @@
 | 2026-10-05 22:15 | replay.py | replay failed: ACCOUNTS missing from events.py; fixed |
 | 2026-10-05 22:30 | Added test suite (tests/test_ledger.py) | 14 tests pass; one test per acceptance criterion |
 | 2026-10-05 22:50 | Added deliberately failing test (test_known_gap.py) | Fails as intended: duplicate E4 credits twice (1050 vs 650) |
+| 2026-10-07 22:50 | Added readme  |  |
+| 2026-10-07 22:50 | Added NUMBERS.md  |  |
+| 2026-10-07 22:50 | Added AMBIGUITIES.md  |  |
+| 2026-10-07 22:50 | Added REJECTED.md  |  |
